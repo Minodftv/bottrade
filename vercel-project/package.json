@@ -7,3 +7,4 @@
   "dependencies": {
     "node-telegram-bot-api": "^1.13.1"
   }
+}
