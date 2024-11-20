@@ -5,5 +5,11 @@
       "src": "build.sh",
       "use": "@vercel/static-build"
     }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "src/telegram-bot.js"
+    }
   ]
 }
