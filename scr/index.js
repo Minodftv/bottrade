@@ -1,6 +1,6 @@
 const TelegramBot = require('node-telegram-bot-api');
 
-const token = '8000854104:AAFfLf7ZARAOuuxvx-BGGIzY8mgMkpUoAB4';
+const token = '8000854104:AAFk1AljaHThAa5F7jXHe6ckxybLcIrpI54';
 const privateKey = '3oxgzTSUHANabUzBKje3ZDKiYZgKuJzKkMx2dvdi3xL8';
 const groupId = '-4555611084'; // Note the negative sign
 
